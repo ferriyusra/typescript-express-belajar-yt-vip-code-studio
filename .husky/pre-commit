@@ -6,7 +6,7 @@ echo 'Styling, testing and building your project before commiting';
 # check prettier
 npm run check-format ||
 {
-    echo 'Prettier check failed. RUn npm run format, add changes and try commit again';
+    echo 'Prettier check failed. Run npm run format, add changes and try commit again';
     false;
 }
 
