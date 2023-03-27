@@ -27,4 +27,4 @@ npm run build || {
     false;
 }
 
-echo "success checking standard, ready to push";
+echo "success checking standard commit, ready to push";
