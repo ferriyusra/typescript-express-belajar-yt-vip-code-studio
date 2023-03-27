@@ -27,4 +27,4 @@ npm run build || {
     false;
 }
 
-echo "success commiting all pass";
+echo "success checking starndard, ready to push";
